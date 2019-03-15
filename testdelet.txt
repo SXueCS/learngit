@@ -1,1 +1,0 @@
-this file is aimed to test the function of delete a file in git
